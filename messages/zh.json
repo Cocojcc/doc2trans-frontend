@@ -1,0 +1,80 @@
+{
+	"header": {
+		"contact": "联系我"
+	},
+	"hero": {
+		"title": "文档翻译，",
+		"titleHighlight": "排版不变",
+		"subtitle": "专业的文档翻译服务，支持 Word/PDF 格式，完美保留原始排版和样式",
+		"cta": "联系我获取服务"
+	},
+	"features": {
+		"title": "为什么选择我们？",
+		"subtitle": "专业、高效、贴心的文档翻译服务",
+		"documentTranslation": {
+			"title": "文档翻译",
+			"description": "支持 Word (.docx) 和 PDF 格式文档的专业翻译，确保译文准确流畅"
+		},
+		"preserveLayout": {
+			"title": "保持原始排版",
+			"description": "翻译后的文档完美保留原始格式、样式和布局，无需额外调整"
+		},
+		"multiLanguage": {
+			"title": "多语言支持",
+			"description": "支持中英日韩法德西等主流语言互译，满足多样化翻译需求"
+		},
+		"glossary": {
+			"title": "术语表支持",
+			"description": "可导入专业术语表，确保行业术语翻译一致性和准确性"
+		}
+	},
+	"process": {
+		"title": "服务流程",
+		"subtitle": "简单四步，轻松完成翻译",
+		"step1": {
+			"title": "联系沟通",
+			"description": "通过 Telegram 或邮件联系我，告知翻译需求"
+		},
+		"step2": {
+			"title": "发送文档",
+			"description": "将需要翻译的文档发送给我"
+		},
+		"step3": {
+			"title": "专业翻译",
+			"description": "我会进行高质量的翻译，保留原始排版"
+		},
+		"step4": {
+			"title": "交付成品",
+			"description": "确认满意后，交付翻译完成的文档"
+		}
+	},
+	"contact": {
+		"title": "联系我",
+		"subtitle": "有翻译需求？随时联系我，我会尽快回复",
+		"telegram": {
+			"title": "Telegram",
+			"subtitle": "首选联系方式",
+			"button": "立即联系"
+		},
+		"email": {
+			"title": "Email",
+			"subtitle": "详细需求可发邮件",
+			"button": "发送邮件"
+		},
+		"tip": "💡 提示：联系时请简要说明文档类型、页数和目标语言，方便我更快为您服务"
+	},
+	"footer": {
+		"tagline": "Made with ❤️ for people who hate reformatting documents",
+		"copyright": "© {year} Doc2Trans. All rights reserved."
+	},
+	"insights": {
+		"title": "资讯",
+		"subtitle": "阅读我们的最新文章和翻译技巧",
+		"metaDescription": "阅读我们关于文档翻译技巧和经验的文章",
+		"readMore": "阅读更多",
+		"backToInsights": "返回资讯",
+		"backToHome": "返回首页",
+		"noPosts": "暂无文章",
+		"viewAll": "查看全部资讯"
+	}
+}

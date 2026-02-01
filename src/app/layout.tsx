@@ -1,10 +1,8 @@
 import type { Metadata } from "next";
-import "./globals.css";
-import { Providers } from "@/components/Providers";
 
 export const metadata: Metadata = {
-	title: "DocLayout Translator",
-	description: "Translate documents while preserving layout",
+	title: "Doc2Trans - Document Translation Service",
+	description: "Professional document translation service. Supports Word/PDF formats. Perfectly preserves original layout and styles.",
 };
 
 export default function RootLayout({
@@ -12,11 +10,5 @@ export default function RootLayout({
 }: Readonly<{
 	children: React.ReactNode;
 }>) {
-	return (
-		<html lang="en" suppressHydrationWarning>
-			<body className="antialiased">
-				<Providers>{children}</Providers>
-			</body>
-		</html>
-	);
+	return children;
 }

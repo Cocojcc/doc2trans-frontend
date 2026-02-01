@@ -1,0 +1,80 @@
+{
+	"header": {
+		"contact": "Contact"
+	},
+	"hero": {
+		"title": "Translate documents, ",
+		"titleHighlight": "keep layout",
+		"subtitle": "Professional document translation service. Supports Word/PDF formats. Perfectly preserves original layout and styles.",
+		"cta": "Contact me for service"
+	},
+	"features": {
+		"title": "Why choose us?",
+		"subtitle": "Professional, efficient, and attentive document translation service",
+		"documentTranslation": {
+			"title": "Document Translation",
+			"description": "Professional translation for Word (.docx) and PDF documents, ensuring accurate and fluent translations"
+		},
+		"preserveLayout": {
+			"title": "Preserve Original Layout",
+			"description": "Translated documents perfectly retain original format, style, and layout without additional adjustments"
+		},
+		"multiLanguage": {
+			"title": "Multi-language Support",
+			"description": "Supports translation between Chinese, English, Japanese, Korean, French, German, Spanish and more"
+		},
+		"glossary": {
+			"title": "Glossary Support",
+			"description": "Import professional glossaries to ensure consistent and accurate industry terminology translation"
+		}
+	},
+	"process": {
+		"title": "Service Process",
+		"subtitle": "Four simple steps to complete your translation",
+		"step1": {
+			"title": "Contact & Communicate",
+			"description": "Reach out via Telegram or email to discuss your translation needs"
+		},
+		"step2": {
+			"title": "Send Documents",
+			"description": "Send me the documents you need translated"
+		},
+		"step3": {
+			"title": "Professional Translation",
+			"description": "I will provide high-quality translation while preserving the original layout"
+		},
+		"step4": {
+			"title": "Delivery",
+			"description": "Receive your completed translated documents after confirmation"
+		}
+	},
+	"contact": {
+		"title": "Contact Me",
+		"subtitle": "Need translation? Feel free to reach out, I'll respond as soon as possible",
+		"telegram": {
+			"title": "Telegram",
+			"subtitle": "Preferred contact method",
+			"button": "Contact Now"
+		},
+		"email": {
+			"title": "Email",
+			"subtitle": "For detailed requirements",
+			"button": "Send Email"
+		},
+		"tip": "💡 Tip: Please briefly describe the document type, page count, and target language for faster service"
+	},
+	"footer": {
+		"tagline": "Made with ❤️ for people who hate reformatting documents",
+		"copyright": "© {year} Doc2Trans. All rights reserved."
+	},
+	"insights": {
+		"title": "Insights",
+		"subtitle": "Tips and guides on document translation",
+		"metaDescription": "Read our articles on document translation techniques and tips",
+		"readMore": "Read more",
+		"backToInsights": "Back to Insights",
+		"backToHome": "Back to Home",
+		"noPosts": "No posts yet",
+		"viewAll": "View All Insights"
+	}
+}

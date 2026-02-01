@@ -1,0 +1,80 @@
+{
+	"header": {
+		"contact": "Kontakt"
+	},
+	"hero": {
+		"title": "Dokumente übersetzen, ",
+		"titleHighlight": "Layout beibehalten",
+		"subtitle": "Professioneller Dokumentenübersetzungsservice. Unterstützt Word/PDF-Formate. Bewahrt Layout und Stile perfekt.",
+		"cta": "Kontaktieren Sie mich"
+	},
+	"features": {
+		"title": "Warum uns wählen?",
+		"subtitle": "Professioneller, effizienter und aufmerksamer Dokumentenübersetzungsservice",
+		"documentTranslation": {
+			"title": "Dokumentenübersetzung",
+			"description": "Professionelle Übersetzung von Word- (.docx) und PDF-Dokumenten, um genaue und flüssige Übersetzungen zu gewährleisten"
+		},
+		"preserveLayout": {
+			"title": "Originales Layout beibehalten",
+			"description": "Übersetzte Dokumente behalten Format, Stil und Layout perfekt bei, ohne zusätzliche Anpassungen"
+		},
+		"multiLanguage": {
+			"title": "Mehrsprachige Unterstützung",
+			"description": "Unterstützt Übersetzungen zwischen Chinesisch, Englisch, Japanisch, Koreanisch, Französisch, Deutsch, Spanisch und mehr"
+		},
+		"glossary": {
+			"title": "Glossar-Unterstützung",
+			"description": "Importieren Sie professionelle Glossare, um konsistente und genaue Fachterminologie-Übersetzungen zu gewährleisten"
+		}
+	},
+	"process": {
+		"title": "Serviceprozess",
+		"subtitle": "Vier einfache Schritte zur Fertigstellung Ihrer Übersetzung",
+		"step1": {
+			"title": "Kontakt & Kommunikation",
+			"description": "Kontaktieren Sie mich über Telegram oder E-Mail, um Ihre Übersetzungsanforderungen zu besprechen"
+		},
+		"step2": {
+			"title": "Dokumente senden",
+			"description": "Senden Sie mir die Dokumente, die Sie übersetzen lassen möchten"
+		},
+		"step3": {
+			"title": "Professionelle Übersetzung",
+			"description": "Ich liefere hochwertige Übersetzungen unter Beibehaltung des Originallayouts"
+		},
+		"step4": {
+			"title": "Lieferung",
+			"description": "Erhalten Sie Ihre übersetzten Dokumente nach Bestätigung"
+		}
+	},
+	"contact": {
+		"title": "Kontaktieren Sie mich",
+		"subtitle": "Benötigen Sie eine Übersetzung? Kontaktieren Sie mich gerne, ich antworte so schnell wie möglich",
+		"telegram": {
+			"title": "Telegram",
+			"subtitle": "Bevorzugte Kontaktmethode",
+			"button": "Jetzt kontaktieren"
+		},
+		"email": {
+			"title": "E-Mail",
+			"subtitle": "Für detaillierte Anforderungen",
+			"button": "E-Mail senden"
+		},
+		"tip": "💡 Tipp: Bitte beschreiben Sie kurz den Dokumenttyp, die Seitenzahl und die Zielsprache für einen schnelleren Service"
+	},
+	"footer": {
+		"tagline": "Mit ❤️ gemacht für Menschen, die es hassen, Dokumente neu zu formatieren",
+		"copyright": "© {year} Doc2Trans. Alle Rechte vorbehalten."
+	},
+	"insights": {
+		"title": "Insights",
+		"subtitle": "Tipps und Anleitungen zur Dokumentenübersetzung",
+		"metaDescription": "Lesen Sie unsere Artikel über Techniken und Tipps zur Dokumentenübersetzung",
+		"readMore": "Weiterlesen",
+		"backToInsights": "Zurück zu Insights",
+		"backToHome": "Zurück zur Startseite",
+		"noPosts": "Noch keine Beiträge",
+		"viewAll": "Alle Insights anzeigen"
+	}
+}

@@ -37,10 +37,10 @@
 		--radius: 0.5rem;
 
 		/* Custom hand-drawn design tokens */
-		--shadow-hard: 4px 4px 0 hsl(0 0% 18%);
-		--shadow-hard-sm: 2px 2px 0 hsl(0 0% 18%);
-		--shadow-hard-hover: 2px 2px 0 hsl(0 0% 18%);
-		--shadow-hard-active: 0px 0px 0 hsl(0 0% 18%);
+		--shadow-hard: 2px 2px 0 hsl(0 0% 40%);
+		--shadow-hard-sm: 2px 2px 0 hsl(0 0% 40%);
+		--shadow-hard-hover: 1px 1px 0 hsl(0 0% 40%);
+		--shadow-hard-active: 0px 0px 0 hsl(0 0% 40%);
 
 		--border-wobbly: 255px 15px 225px 15px / 15px 225px 15px 255px;
 		--border-wobbly-alt: 15px 225px 15px 255px / 255px 15px 225px 15px;
@@ -142,4 +142,9 @@
 ::-webkit-scrollbar-thumb {
 	background: hsl(var(--foreground));
 	border-radius: 40px 8px 30px 8px / 8px 30px 8px 40px;
+}
+
+/* Hide scrollbar utility */
+.scrollbar-none::-webkit-scrollbar {
+	display: none;
 }

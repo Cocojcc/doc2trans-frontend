@@ -1,0 +1,80 @@
+{
+	"header": {
+		"contact": "문의하기"
+	},
+	"hero": {
+		"title": "문서 번역, ",
+		"titleHighlight": "레이아웃 유지",
+		"subtitle": "전문적인 문서 번역 서비스. Word/PDF 형식 지원. 원본 레이아웃과 스타일을 완벽하게 보존.",
+		"cta": "서비스 문의하기"
+	},
+	"features": {
+		"title": "왜 저희를 선택해야 할까요?",
+		"subtitle": "전문적이고 효율적이며 세심한 문서 번역 서비스",
+		"documentTranslation": {
+			"title": "문서 번역",
+			"description": "Word(.docx) 및 PDF 문서의 전문 번역, 정확하고 유창한 번역 보장"
+		},
+		"preserveLayout": {
+			"title": "원본 레이아웃 유지",
+			"description": "번역된 문서는 추가 조정 없이 원본 형식, 스타일 및 레이아웃을 완벽하게 유지"
+		},
+		"multiLanguage": {
+			"title": "다국어 지원",
+			"description": "중국어, 영어, 일본어, 한국어, 프랑스어, 독일어, 스페인어 등 번역 지원"
+		},
+		"glossary": {
+			"title": "용어집 지원",
+			"description": "전문 용어집을 가져와 업계 용어 번역의 일관성과 정확성 보장"
+		}
+	},
+	"process": {
+		"title": "서비스 프로세스",
+		"subtitle": "간단한 4단계로 번역 완료",
+		"step1": {
+			"title": "연락 및 상담",
+			"description": "Telegram 또는 이메일로 번역 요구 사항을 알려주세요"
+		},
+		"step2": {
+			"title": "문서 보내기",
+			"description": "번역이 필요한 문서를 보내주세요"
+		},
+		"step3": {
+			"title": "전문 번역",
+			"description": "원본 레이아웃을 유지하면서 고품질 번역 제공"
+		},
+		"step4": {
+			"title": "납품",
+			"description": "확인 후 번역 완료된 문서 전달"
+		}
+	},
+	"contact": {
+		"title": "문의하기",
+		"subtitle": "번역이 필요하신가요? 편하게 연락주세요. 최대한 빨리 답변드리겠습니다",
+		"telegram": {
+			"title": "Telegram",
+			"subtitle": "선호 연락 방법",
+			"button": "지금 연락하기"
+		},
+		"email": {
+			"title": "이메일",
+			"subtitle": "상세 요구 사항은 여기로",
+			"button": "이메일 보내기"
+		},
+		"tip": "💡 팁: 빠른 서비스를 위해 문서 유형, 페이지 수, 대상 언어를 간략히 알려주세요"
+	},
+	"footer": {
+		"tagline": "문서 다시 포맷하기 싫어하는 분들을 위해 ❤️ 로 제작",
+		"copyright": "© {year} Doc2Trans. All rights reserved."
+	},
+	"insights": {
+		"title": "인사이트",
+		"subtitle": "문서 번역에 대한 팁과 가이드",
+		"metaDescription": "문서 번역 기술과 팁에 관한 글을 읽어보세요",
+		"readMore": "더 읽기",
+		"backToInsights": "인사이트로 돌아가기",
+		"backToHome": "홈으로 돌아가기",
+		"noPosts": "아직 게시물이 없습니다",
+		"viewAll": "모든 인사이트 보기"
+	}
+}

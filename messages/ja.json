@@ -1,0 +1,80 @@
+{
+	"header": {
+		"contact": "お問い合わせ"
+	},
+	"hero": {
+		"title": "ドキュメント翻訳、",
+		"titleHighlight": "レイアウト維持",
+		"subtitle": "プロフェッショナルなドキュメント翻訳サービス。Word/PDF形式に対応。元のレイアウトとスタイルを完璧に保持。",
+		"cta": "サービスのお問い合わせ"
+	},
+	"features": {
+		"title": "なぜ私たちを選ぶのか？",
+		"subtitle": "プロフェッショナルで効率的、きめ細やかなドキュメント翻訳サービス",
+		"documentTranslation": {
+			"title": "ドキュメント翻訳",
+			"description": "Word（.docx）およびPDFドキュメントのプロフェッショナル翻訳。正確で流暢な翻訳を保証"
+		},
+		"preserveLayout": {
+			"title": "元のレイアウトを保持",
+			"description": "翻訳されたドキュメントは、追加の調整なしで元のフォーマット、スタイル、レイアウトを完璧に保持"
+		},
+		"multiLanguage": {
+			"title": "多言語対応",
+			"description": "中国語、英語、日本語、韓国語、フランス語、ドイツ語、スペイン語などの翻訳に対応"
+		},
+		"glossary": {
+			"title": "用語集対応",
+			"description": "プロフェッショナルな用語集をインポートして、業界用語の一貫性と正確性を確保"
+		}
+	},
+	"process": {
+		"title": "サービスプロセス",
+		"subtitle": "4つの簡単なステップで翻訳完了",
+		"step1": {
+			"title": "連絡・相談",
+			"description": "TelegramまたはEメールで翻訳のニーズをお知らせください"
+		},
+		"step2": {
+			"title": "ドキュメント送信",
+			"description": "翻訳が必要なドキュメントをお送りください"
+		},
+		"step3": {
+			"title": "プロ翻訳",
+			"description": "元のレイアウトを保持しながら高品質な翻訳を提供"
+		},
+		"step4": {
+			"title": "納品",
+			"description": "確認後、翻訳完了したドキュメントをお届け"
+		}
+	},
+	"contact": {
+		"title": "お問い合わせ",
+		"subtitle": "翻訳が必要ですか？お気軽にご連絡ください。できるだけ早くお返事します",
+		"telegram": {
+			"title": "Telegram",
+			"subtitle": "推奨連絡方法",
+			"button": "今すぐ連絡"
+		},
+		"email": {
+			"title": "Eメール",
+			"subtitle": "詳細な要件はこちらへ",
+			"button": "メールを送信"
+		},
+		"tip": "💡 ヒント：迅速なサービスのため、ドキュメントの種類、ページ数、対象言語を簡単にお知らせください"
+	},
+	"footer": {
+		"tagline": "ドキュメントの再フォーマットが嫌いな人々のために ❤️ を込めて作成",
+		"copyright": "© {year} Doc2Trans. All rights reserved."
+	},
+	"insights": {
+		"title": "インサイト",
+		"subtitle": "文書翻訳に関するヒントとガイド",
+		"metaDescription": "文書翻訳のテクニックとヒントに関する記事をお読みください",
+		"readMore": "続きを読む",
+		"backToInsights": "インサイトに戻る",
+		"backToHome": "ホームに戻る",
+		"noPosts": "まだ投稿がありません",
+		"viewAll": "すべてのインサイトを見る"
+	}
+}

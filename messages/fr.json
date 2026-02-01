@@ -1,0 +1,80 @@
+{
+	"header": {
+		"contact": "Contact"
+	},
+	"hero": {
+		"title": "Traduire des documents, ",
+		"titleHighlight": "conserver la mise en page",
+		"subtitle": "Service professionnel de traduction de documents. Supporte les formats Word/PDF. Préserve parfaitement la mise en page et les styles originaux.",
+		"cta": "Me contacter pour le service"
+	},
+	"features": {
+		"title": "Pourquoi nous choisir ?",
+		"subtitle": "Service de traduction de documents professionnel, efficace et attentionné",
+		"documentTranslation": {
+			"title": "Traduction de documents",
+			"description": "Traduction professionnelle de documents Word (.docx) et PDF, garantissant des traductions précises et fluides"
+		},
+		"preserveLayout": {
+			"title": "Préserver la mise en page",
+			"description": "Les documents traduits conservent parfaitement le format, le style et la mise en page d'origine sans ajustements supplémentaires"
+		},
+		"multiLanguage": {
+			"title": "Support multilingue",
+			"description": "Supporte la traduction entre le chinois, l'anglais, le japonais, le coréen, le français, l'allemand, l'espagnol et plus"
+		},
+		"glossary": {
+			"title": "Support de glossaire",
+			"description": "Importez des glossaires professionnels pour garantir une traduction cohérente et précise de la terminologie spécialisée"
+		}
+	},
+	"process": {
+		"title": "Processus de service",
+		"subtitle": "Quatre étapes simples pour compléter votre traduction",
+		"step1": {
+			"title": "Contact et communication",
+			"description": "Contactez-moi via Telegram ou email pour discuter de vos besoins de traduction"
+		},
+		"step2": {
+			"title": "Envoyer les documents",
+			"description": "Envoyez-moi les documents que vous devez faire traduire"
+		},
+		"step3": {
+			"title": "Traduction professionnelle",
+			"description": "Je fournirai une traduction de haute qualité tout en préservant la mise en page originale"
+		},
+		"step4": {
+			"title": "Livraison",
+			"description": "Recevez vos documents traduits après confirmation"
+		}
+	},
+	"contact": {
+		"title": "Me contacter",
+		"subtitle": "Besoin d'une traduction ? N'hésitez pas à me contacter, je répondrai dès que possible",
+		"telegram": {
+			"title": "Telegram",
+			"subtitle": "Méthode de contact préférée",
+			"button": "Contacter maintenant"
+		},
+		"email": {
+			"title": "Email",
+			"subtitle": "Pour les demandes détaillées",
+			"button": "Envoyer un email"
+		},
+		"tip": "💡 Conseil : Veuillez décrire brièvement le type de document, le nombre de pages et la langue cible pour un service plus rapide"
+	},
+	"footer": {
+		"tagline": "Fait avec ❤️ pour ceux qui détestent reformater les documents",
+		"copyright": "© {year} Doc2Trans. Tous droits réservés."
+	},
+	"insights": {
+		"title": "Insights",
+		"subtitle": "Conseils et guides sur la traduction de documents",
+		"metaDescription": "Lisez nos articles sur les techniques et conseils de traduction de documents",
+		"readMore": "Lire la suite",
+		"backToInsights": "Retour aux Insights",
+		"backToHome": "Retour à l'accueil",
+		"noPosts": "Aucun article disponible",
+		"viewAll": "Voir tous les insights"
+	}
+}
