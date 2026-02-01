@@ -1,11 +1,11 @@
-# DocLayoutTranslator
+# Doc2Trans
 
-**DocLayoutTranslator** 是一个文档翻译服务的平台，专注于提供高质量的文档翻译，同时确保文档的布局、结构和专业术语的管理得到妥善保留。该服务专为需要保持文档一致性的用户而设计，无论是多语言支持还是复杂的格式处理，都能为用户提供流畅的体验。
+**Doc2Trans** 是一个文档翻译服务的平台，专注于提供高质量的文档翻译，同时确保文档的布局、结构和专业术语的管理得到妥善保留。该服务专为需要保持文档一致性的用户而设计，无论是多语言支持还是复杂的格式处理，都能为用户提供流畅的体验。
 
 ## 项目结构
 项目的核心文件结构如下：
 ```
-/DocLayoutTranslator/frontend
+/Doc2Trans/frontend
 ├── content
 │   └── insights
 │       ├── ar  (阿拉伯语文章)
@@ -31,12 +31,12 @@
 ## 使用方法
 1. 克隆代码库：
 ```bash
-git clone https://github.com/your-repo/DocLayoutTranslator.git
+git clone https://github.com/your-repo/Doc2Trans.git
 ```
 
 2. 进入项目目录：
 ```bash
-cd /Volumes/External/Coding/SideProject/DocLayoutTranslator/frontend
+cd /Volumes/External/Coding/SideProject/Doc2Trans/frontend
 ```
 
 3. 配置依赖：

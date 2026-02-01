@@ -10,7 +10,7 @@ lang: "es"
 
 En contratos, manuales o listas de precios, el mayor coste oculto no suele ser una palabra mal traducida, sino el **formato roto**: tablas desalineadas, títulos perdidos, listas dañadas, imágenes que se mueven de página. Después pasas horas “arreglando el diseño”.
 
-Aquí explicamos **qué significa realmente conservar el formato** y cómo DocLayoutTranslator te ayuda a generar documentos multilingües manteniendo estructura, maquetación y terminología.
+Aquí explicamos **qué significa realmente conservar el formato** y cómo Doc2Trans te ayuda a generar documentos multilingües manteniendo estructura, maquetación y terminología.
 
 ## ¿Qué se conserva cuando “se mantiene el formato”?
 
@@ -29,9 +29,9 @@ Causas comunes:
 2. **PDF (y escaneados) difíciles**: OCR y diseños complejos fallan con facilidad.
 3. **Terminología inconsistente**: obliga a revisar y corregir manualmente.
 
-## DocLayoutTranslator: traducción + estructura/maquetación/glosario
+## Doc2Trans: traducción + estructura/maquetación/glosario
 
-DocLayoutTranslator está pensado para entregables listos:
+Doc2Trans está pensado para entregables listos:
 
 - **Salida multilingüe** en un solo flujo
 - **Consistencia de maquetación** para minimizar retrabajo

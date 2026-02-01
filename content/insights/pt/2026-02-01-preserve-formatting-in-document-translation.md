@@ -10,7 +10,7 @@ lang: "pt"
 
 Ao traduzir contratos, manuais ou listas de preços, o maior custo oculto muitas vezes não é uma palavra ruim — é **a formatação quebrada**: tabelas desalinhadas, títulos perdidos, listas bagunçadas, imagens mudando de página. Depois você perde tempo “arrumando o layout”.
 
-Este artigo explica **o que significa, de fato, preservar a formatação** e como o DocLayoutTranslator ajuda a gerar documentos multilíngues mantendo estrutura, layout e terminologia consistentes.
+Este artigo explica **o que significa, de fato, preservar a formatação** e como o Doc2Trans ajuda a gerar documentos multilíngues mantendo estrutura, layout e terminologia consistentes.
 
 ## O que “preservar formatação” preserva?
 
@@ -29,7 +29,7 @@ Causas comuns:
 2. **PDF (e digitalizações) são difíceis**: OCR e layouts complexos geram erros.
 3. **Terminologia inconsistente**: aumenta retrabalho na revisão.
 
-## DocLayoutTranslator: tradução + estrutura/layout/glossário
+## Doc2Trans: tradução + estrutura/layout/glossário
 
 Foco em entregáveis prontos:
 

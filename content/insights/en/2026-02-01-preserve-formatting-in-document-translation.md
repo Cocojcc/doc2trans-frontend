@@ -10,7 +10,7 @@ lang: "en"
 
 When you translate a contract, manual, or price sheet, the biggest hidden cost often isn’t wording—it’s **layout breakage**: shifted tables, missing headings, broken lists, images moving pages. Then you spend hours “fixing formatting” instead of shipping.
 
-This article explains **what “preserve formatting” really means** and how DocLayoutTranslator helps you produce multilingual documents while keeping structure, layout, and terminology consistent.
+This article explains **what “preserve formatting” really means** and how Doc2Trans helps you produce multilingual documents while keeping structure, layout, and terminology consistent.
 
 ## What does “preserve formatting” actually preserve?
 
@@ -29,9 +29,9 @@ Common causes:
 2. **Hard PDF parsing (and scanned PDFs)**: OCR and complex layouts (multi-column, nested tables) are error-prone.
 3. **Inconsistent terminology**: multiple translations of the same term force manual review and rework.
 
-## DocLayoutTranslator: translation + structure/layout/glossary together
+## Doc2Trans: translation + structure/layout/glossary together
 
-DocLayoutTranslator focuses on “deliverable-ready” translation:
+Doc2Trans focuses on “deliverable-ready” translation:
 
 - **Multi-language output** in one workflow
 - **Layout consistency** to minimize reformatting work

@@ -10,7 +10,7 @@ lang: "fr"
 
 Pour un contrat, un manuel ou une grille tarifaire, le vrai coût caché n’est pas un mot imparfait—c’est la **mise en page cassée** : tableaux décalés, titres perdus, listes désorganisées, images qui changent de page. Ensuite, vous passez du temps à “refaire le format”.
 
-Voici **ce que signifie réellement préserver le format** et comment DocLayoutTranslator aide à produire des documents multilingues tout en gardant structure, mise en page et terminologie cohérentes.
+Voici **ce que signifie réellement préserver le format** et comment Doc2Trans aide à produire des documents multilingues tout en gardant structure, mise en page et terminologie cohérentes.
 
 ## Que signifie « préserver le format » ?
 
@@ -29,9 +29,9 @@ Causes fréquentes :
 2. **PDF et scans difficiles** : OCR + maquettes complexes = erreurs.
 3. **Terminologie incohérente** : impose relectures et corrections manuelles.
 
-## DocLayoutTranslator : traduction + structure/mise en page/glossaire
+## Doc2Trans : traduction + structure/mise en page/glossaire
 
-DocLayoutTranslator vise des livrables “prêts à publier” :
+Doc2Trans vise des livrables “prêts à publier” :
 
 - **Sortie multilingue** en un seul flux
 - **Cohérence de mise en page** pour limiter le reformatage

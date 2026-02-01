@@ -10,7 +10,7 @@ lang: "it"
 
 Quando traduci contratti, manuali o listini, il costo nascosto spesso non è la scelta di una parola, ma il **layout che si rompe**: tabelle fuori allineamento, titoli persi, elenchi rovinati, immagini spostate. Poi passi ore a “sistemare la formattazione”.
 
-Qui spieghiamo **cosa significa davvero preservare il formato** e come DocLayoutTranslator aiuta a produrre documenti multilingue mantenendo struttura, impaginazione e terminologia coerenti.
+Qui spieghiamo **cosa significa davvero preservare il formato** e come Doc2Trans aiuta a produrre documenti multilingue mantenendo struttura, impaginazione e terminologia coerenti.
 
 ## Cosa si preserva quando si “mantiene il formato”
 
@@ -29,9 +29,9 @@ Cause comuni:
 2. **PDF e scansioni difficili**: OCR e layout complessi generano errori.
 3. **Terminologia incoerente**: richiede revisione e correzioni manuali.
 
-## DocLayoutTranslator: traduzione + struttura/layout/glossario
+## Doc2Trans: traduzione + struttura/layout/glossario
 
-DocLayoutTranslator punta a consegne “pronte all’uso”:
+Doc2Trans punta a consegne “pronte all’uso”:
 
 - **Output multilingue** in un unico flusso
 - **Coerenza del layout** per ridurre il reformatting

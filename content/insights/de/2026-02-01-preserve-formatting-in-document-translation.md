@@ -10,7 +10,7 @@ lang: "de"
 
 Bei Verträgen, Handbüchern oder Preislisten ist der größte versteckte Aufwand oft nicht die Wortwahl, sondern **kaputtes Layout**: verrutschte Tabellen, verlorene Überschriften, zerstörte Listen, Bilder auf der falschen Seite. Danach kostet „Format nachbauen“ mehr Zeit als die Übersetzung.
 
-Hier erklären wir, **was Format-Erhalt wirklich bedeutet** und wie DocLayoutTranslator mehrsprachige Dokumente erstellt – mit stabiler Struktur, konsistentem Layout und einheitlicher Terminologie.
+Hier erklären wir, **was Format-Erhalt wirklich bedeutet** und wie Doc2Trans mehrsprachige Dokumente erstellt – mit stabiler Struktur, konsistentem Layout und einheitlicher Terminologie.
 
 ## Was wird beim „Format-Erhalt“ bewahrt?
 
@@ -29,9 +29,9 @@ Typische Ursachen:
 2. **PDFs (und Scans) sind schwer zu parsen** – OCR und komplexe Layouts sind fehleranfällig.
 3. **Uneinheitliche Fachbegriffe** – unterschiedliche Übersetzungen erzwingen Nacharbeit.
 
-## DocLayoutTranslator: Übersetzung + Struktur/Layout/Glossar zusammen
+## Doc2Trans: Übersetzung + Struktur/Layout/Glossar zusammen
 
-DocLayoutTranslator zielt auf „lieferfertige“ Übersetzungen:
+Doc2Trans zielt auf „lieferfertige“ Übersetzungen:
 
 - **Mehrsprachige Ausgabe** in einem Workflow
 - **Layout-Konsistenz** zur Minimierung von Reformatierung
