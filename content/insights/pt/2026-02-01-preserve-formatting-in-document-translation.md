@@ -1,8 +1,12 @@
 ---
 title: "Por que preservar a formatação na tradução de documentos (PDF/Word, tabelas e glossários)"
-date: 2026-02-01
-lang: pt
+description: "Guia prático para traduzir documentos preservando layout, estrutura, tabelas e consistência de termos."
+date: "2026-02-01"
+author: "Doc2Trans Team"
+tags: ["tradução de documentos", "preservar formatação", "glossário"]
+lang: "pt"
 ---
+
 
 Ao traduzir contratos, manuais ou listas de preços, o maior custo oculto muitas vezes não é uma palavra ruim — é **a formatação quebrada**: tabelas desalinhadas, títulos perdidos, listas bagunçadas, imagens mudando de página. Depois você perde tempo “arrumando o layout”.
 

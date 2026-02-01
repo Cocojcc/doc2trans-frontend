@@ -1,8 +1,12 @@
 ---
 title: "Pourquoi préserver la mise en page en traduction de documents (PDF/Word, tableaux, glossaires)"
-date: 2026-02-01
-lang: fr
+description: "Guide pratique pour traduire des documents en conservant mise en page, structure, tableaux et terminologie."
+date: "2026-02-01"
+author: "Doc2Trans Team"
+tags: ["traduction de documents", "mise en page", "glossaire"]
+lang: "fr"
 ---
+
 
 Pour un contrat, un manuel ou une grille tarifaire, le vrai coût caché n’est pas un mot imparfait—c’est la **mise en page cassée** : tableaux décalés, titres perdus, listes désorganisées, images qui changent de page. Ensuite, vous passez du temps à “refaire le format”.
 

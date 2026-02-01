@@ -1,8 +1,12 @@
 ---
 title: "Por qué es clave mantener el formato al traducir documentos (PDF/Word, tablas y glosarios)"
-date: 2026-02-01
-lang: es
+description: "Guía práctica para traducir documentos manteniendo formato, estructura, tablas y consistencia terminológica."
+date: "2026-02-01"
+author: "Doc2Trans Team"
+tags: ["traducción de documentos", "conservar formato", "glosario"]
+lang: "es"
 ---
+
 
 En contratos, manuales o listas de precios, el mayor coste oculto no suele ser una palabra mal traducida, sino el **formato roto**: tablas desalineadas, títulos perdidos, listas dañadas, imágenes que se mueven de página. Después pasas horas “arreglando el diseño”.
 

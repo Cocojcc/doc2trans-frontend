@@ -1,8 +1,12 @@
 ---
 title: "Warum Format-Erhalt bei der Dokumentübersetzung entscheidend ist (PDF/Word, Tabellen, Glossare)"
-date: 2026-02-01
-lang: de
+description: "Praxisleitfaden zur Dokumentübersetzung mit Format-, Struktur- und Terminologie-Konsistenz."
+date: "2026-02-01"
+author: "Doc2Trans Team"
+tags: ["Dokumentübersetzung", "Formaterhalt", "Glossar"]
+lang: "de"
 ---
+
 
 Bei Verträgen, Handbüchern oder Preislisten ist der größte versteckte Aufwand oft nicht die Wortwahl, sondern **kaputtes Layout**: verrutschte Tabellen, verlorene Überschriften, zerstörte Listen, Bilder auf der falschen Seite. Danach kostet „Format nachbauen“ mehr Zeit als die Übersetzung.
 

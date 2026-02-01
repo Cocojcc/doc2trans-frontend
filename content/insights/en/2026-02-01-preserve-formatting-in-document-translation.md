@@ -1,8 +1,12 @@
 ---
 title: "Why Preserving Formatting Matters in Document Translation (PDF/Word, Tables, and Glossaries)"
-date: 2026-02-01
-lang: en
+description: "A practical guide to translating documents while preserving layout, structure, tables, and glossary consistency."
+date: "2026-02-01"
+author: "Doc2Trans Team"
+tags: ["document translation", "format preservation", "glossary consistency"]
+lang: "en"
 ---
+
 
 When you translate a contract, manual, or price sheet, the biggest hidden cost often isn’t wording—it’s **layout breakage**: shifted tables, missing headings, broken lists, images moving pages. Then you spend hours “fixing formatting” instead of shipping.
 

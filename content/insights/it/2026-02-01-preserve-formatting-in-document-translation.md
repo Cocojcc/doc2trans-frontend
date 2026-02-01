@@ -1,8 +1,12 @@
 ---
 title: "Perché preservare la formattazione nella traduzione di documenti (PDF/Word, tabelle e glossari)"
-date: 2026-02-01
-lang: it
+description: "Guida pratica alla traduzione di documenti con formattazione, struttura, tabelle e terminologia coerenti."
+date: "2026-02-01"
+author: "Doc2Trans Team"
+tags: ["traduzione documenti", "formattazione", "glossario"]
+lang: "it"
 ---
+
 
 Quando traduci contratti, manuali o listini, il costo nascosto spesso non è la scelta di una parola, ma il **layout che si rompe**: tabelle fuori allineamento, titoli persi, elenchi rovinati, immagini spostate. Poi passi ore a “sistemare la formattazione”.
 
